@@ -13,7 +13,7 @@ html, body  {
 }
 
 body {
-    background: url('imagens/fundo-madeira.jpg') no-repeat top center fixed;
+    background: url('../imagens/fundo-madeira.jpg') no-repeat top center fixed;
     background-size: cover;
 }
 
@@ -29,7 +29,7 @@ section#tele {
     transform: translate(-50%, -50%);
     height: 627px;
     width: 311px;
-    background: url('imagens/frame-iphone.png') no-repeat;
+    background: url('../imagens/frame-iphone.png') no-repeat;
 }
 
 iframe#tela {
